@@ -1,0 +1,17 @@
+# Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+*.keystore
+*.iml
+*.hprof
+/*.log
+*/captures/*
+
+# Gradle
+.gradle/
+
+# Java Class files
+*.class
